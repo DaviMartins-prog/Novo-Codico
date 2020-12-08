@@ -2,7 +2,7 @@
 # Novo-Código
 
 from  randomimport randint 
-import time sllep
+import time sleep
 computador = randoint(0,10)
 print ("Vamos começar!, Diga um  número ? ")
 acertar = false 
